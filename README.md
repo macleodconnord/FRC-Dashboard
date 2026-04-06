@@ -1,4 +1,4 @@
-once you have Flask installed, you can run the app.py file with 
+# Flask Dashboard for FRC
  
  ## Quick start (Windows)
  1. Create a `.env` file in the project root with:
