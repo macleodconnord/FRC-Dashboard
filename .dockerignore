@@ -1,0 +1,10 @@
+__pycache__
+*.py[codz]
+*.log
+.venv
+venv
+ENV
+.env
+.idea
+.git
+.gitignore
